@@ -1,2 +1,7 @@
 # state-backup-v2-617
-Analytics data pipeline output
+
+Machine learning model checkpoint storage.
+
+## Overview
+
+This repository stores versioned model weights and training artifacts for the ML pipeline.
